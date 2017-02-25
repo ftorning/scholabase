@@ -5,7 +5,6 @@ INSERT INTO college VALUES ( 174136, TRUE, 'Minneapolis Community and Technical 
 INSERT INTO college VALUES ( 125222, TRUE, 'West Valley Mission Community College District Office', 'CA');
 INSERT INTO college VALUES ( 226152, TRUE, 'Texas A & M International University', 'TX');
 INSERT INTO college VALUES ( 231873, TRUE, 'Dabney S Lancaster Community College', 'VA');
-INSERT INTO college VALUES ( 241386, FALSE, 'Caribbean University-Carolina', 'PR');
 INSERT INTO college VALUES ( 237950, TRUE, 'West Virginia University Institute of Technology', 'WV');
 INSERT INTO college VALUES ( 175263, TRUE, 'Minnesota State College-Southeast Technical', 'MN');
 INSERT INTO college VALUES ( 188641, FALSE, 'Alfred University', 'NY');
@@ -27,7 +26,6 @@ INSERT INTO college VALUES ( 159948, FALSE, 'New Orleans Baptist Theological Sem
 INSERT INTO college VALUES ( 217475, TRUE, 'Community College of Rhode Island', 'RI');
 INSERT INTO college VALUES ( 155052, TRUE, 'Flint Hills Technical College', 'KS');
 INSERT INTO college VALUES ( 199582, FALSE, 'Saint Augustine\'s University', 'NC');
-INSERT INTO college VALUES ( 440651, FALSE, 'Atenas College', 'PR');
 INSERT INTO college VALUES ( 124487, FALSE, 'Epic Bible College', 'CA');
 INSERT INTO college VALUES ( 221971, FALSE, 'Union University', 'TN');
 INSERT INTO college VALUES ( 126012, FALSE, 'The Wright Institute', 'CA');
@@ -69,7 +67,6 @@ INSERT INTO college VALUES ( 214564, FALSE, 'Salus University', 'PA');
 INSERT INTO college VALUES ( 236577, FALSE, 'Seattle Pacific University', 'WA');
 INSERT INTO college VALUES ( 234377, TRUE, 'Wytheville Community College', 'VA');
 INSERT INTO college VALUES ( 217615, TRUE, 'Aiken Technical College', 'SC');
-INSERT INTO college VALUES ( 404222, FALSE, 'Inter American University of Puerto Rico-School of Optometry', 'PR');
 INSERT INTO college VALUES ( 224350, TRUE, 'Del Mar College', 'TX');
 INSERT INTO college VALUES ( 228316, TRUE, 'Southwest Texas Junior College', 'TX');
 INSERT INTO college VALUES ( 224271, FALSE, 'Dallas Institute of Funeral Service', 'TX');
