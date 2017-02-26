@@ -1,4 +1,4 @@
-package cs500.sch.ScholarBasePk;
+package cs500.sch;
 
 public class Company {
 	
